@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7872" started-at="2018-12-10T23:40:21Z" finished-at="2018-12-10T23:40:29Z">
+  <suite name="Default suite" duration-ms="7506" started-at="2018-12-11T00:43:35Z" finished-at="2018-12-11T00:43:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7872" started-at="2018-12-10T23:40:21Z" finished-at="2018-12-10T23:40:29Z">
+    <test name="Default test" duration-ms="7506" started-at="2018-12-11T00:43:35Z" finished-at="2018-12-11T00:43:43Z">
       <class name="com.qa.test.CHC_GetPartialURL">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.CHC_GetPartialURL@7f13d6e]" name="setUp" is-config="true" duration-ms="722" started-at="2018-12-10T23:40:20Z" finished-at="2018-12-10T23:40:21Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.CHC_GetPartialURL@1c3a4799]" name="setUp" is-config="true" duration-ms="651" started-at="2018-12-11T00:43:35Z" finished-at="2018-12-11T00:43:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="CreateRequestBody()[pri:1, instance:com.qa.test.CHC_GetPartialURL@7f13d6e]" name="CreateRequestBody" duration-ms="9" started-at="2018-12-10T23:40:21Z" finished-at="2018-12-10T23:40:21Z">
+        <test-method status="PASS" signature="CreateRequestBody()[pri:1, instance:com.qa.test.CHC_GetPartialURL@1c3a4799]" name="CreateRequestBody" duration-ms="5" started-at="2018-12-11T00:43:35Z" finished-at="2018-12-11T00:43:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateRequestBody -->
-        <test-method status="PASS" signature="SendReqest()[pri:2, instance:com.qa.test.CHC_GetPartialURL@7f13d6e]" name="SendReqest" duration-ms="465" started-at="2018-12-10T23:40:21Z" depends-on-methods="com.qa.test.CHC_GetPartialURL.CreateRequestBody" finished-at="2018-12-10T23:40:21Z">
+        <test-method status="PASS" signature="SendReqest()[pri:2, instance:com.qa.test.CHC_GetPartialURL@1c3a4799]" name="SendReqest" duration-ms="450" started-at="2018-12-11T00:43:35Z" depends-on-methods="com.qa.test.CHC_GetPartialURL.CreateRequestBody" finished-at="2018-12-11T00:43:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SendReqest -->
-        <test-method status="PASS" signature="LaunchURL()[pri:3, instance:com.qa.test.CHC_GetPartialURL@7f13d6e]" name="LaunchURL" duration-ms="4679" started-at="2018-12-10T23:40:21Z" depends-on-methods="com.qa.test.CHC_GetPartialURL.SendReqest" finished-at="2018-12-10T23:40:26Z">
+        <test-method status="PASS" signature="LaunchURL()[pri:3, instance:com.qa.test.CHC_GetPartialURL@1c3a4799]" name="LaunchURL" duration-ms="4548" started-at="2018-12-11T00:43:36Z" depends-on-methods="com.qa.test.CHC_GetPartialURL.SendReqest" finished-at="2018-12-11T00:43:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method status="PASS" signature="EnterPaymentDetails()[pri:4, instance:com.qa.test.CHC_GetPartialURL@7f13d6e]" name="EnterPaymentDetails" duration-ms="2656" started-at="2018-12-10T23:40:26Z" depends-on-methods="com.qa.test.CHC_GetPartialURL.LaunchURL" finished-at="2018-12-10T23:40:29Z">
+        <test-method status="PASS" signature="EnterPaymentDetails()[pri:4, instance:com.qa.test.CHC_GetPartialURL@1c3a4799]" name="EnterPaymentDetails" duration-ms="2460" started-at="2018-12-11T00:43:40Z" depends-on-methods="com.qa.test.CHC_GetPartialURL.LaunchURL" finished-at="2018-12-11T00:43:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EnterPaymentDetails -->
-        <test-method status="PASS" signature="VerifyPayment()[pri:5, instance:com.qa.test.CHC_GetPartialURL@7f13d6e]" name="VerifyPayment" duration-ms="9" started-at="2018-12-10T23:40:29Z" depends-on-methods="com.qa.test.CHC_GetPartialURL.EnterPaymentDetails" finished-at="2018-12-10T23:40:29Z">
+        <test-method status="PASS" signature="VerifyPayment()[pri:5, instance:com.qa.test.CHC_GetPartialURL@1c3a4799]" name="VerifyPayment" duration-ms="7" started-at="2018-12-11T00:43:43Z" depends-on-methods="com.qa.test.CHC_GetPartialURL.EnterPaymentDetails" finished-at="2018-12-11T00:43:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyPayment -->
-        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.qa.test.CHC_GetPartialURL@7f13d6e]" name="AfterTest" is-config="true" duration-ms="5283" started-at="2018-12-10T23:40:29Z" finished-at="2018-12-10T23:40:34Z">
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.qa.test.CHC_GetPartialURL@1c3a4799]" name="AfterTest" is-config="true" duration-ms="3671" started-at="2018-12-11T00:43:43Z" finished-at="2018-12-11T00:43:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTest -->

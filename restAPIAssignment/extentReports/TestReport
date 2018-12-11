@@ -46,7 +46,7 @@
 		<ul id='nav-mobile' class='right hide-on-med-and-down nav-right'>
 			<li>
                 <a href='#!'>
-                    <span class='label suite-start-time blue darken-3'>Dec 11, 2018 12:40:20 AM</span>
+                    <span class='label suite-start-time blue darken-3'>Dec 11, 2018 01:43:35 AM</span>
 				</a>
 			</li>
 			<li>
@@ -158,14 +158,14 @@
 				<li class='test displayed active  pass' status='pass' bdd='false' test-id='1'>
 					<div class='test-heading'>
 						<span class='test-name'>IngenicoAPITest</span>
-						<span class='test-time'>Dec 11, 2018 12:40:21 AM</span>
+						<span class='test-time'>Dec 11, 2018 01:43:35 AM</span>
 						<span class='test-status right pass'>pass</span>
 					</div>
 					<div class='test-content hide'>
 <div class='test-time-info'>
-	<span class='label start-time'>Dec 11, 2018 12:40:21 AM</span>
-	<span class='label end-time'>Dec 11, 2018 12:40:29 AM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 7s+956ms</span>
+	<span class='label start-time'>Dec 11, 2018 01:43:35 AM</span>
+	<span class='label end-time'>Dec 11, 2018 01:43:43 AM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 7s+593ms</span>
 </div>
 	<div class='test-steps'>
 		<table class='bordered table-results'>
@@ -179,32 +179,32 @@
 			<tbody>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>12:40:21 AM</td>
+					<td class='timestamp'>1:43:35 AM</td>
 					<td class='step-details'>Test begins..</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>12:40:21 AM</td>
-					<td class='step-details'>Request Body is created-com.ingenico.connect.gateway.sdk.java.domain.hostedcheckout.CreateHostedCheckoutRequest@68e965f5</td>
+					<td class='timestamp'>1:43:35 AM</td>
+					<td class='step-details'>Request Body is created-com.ingenico.connect.gateway.sdk.java.domain.hostedcheckout.CreateHostedCheckoutRequest@46fa7c39</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>12:40:21 AM</td>
-					<td class='step-details'>Request is sent successfully and response received.- com.ingenico.connect.gateway.sdk.java.domain.hostedcheckout.CreateHostedCheckoutResponse@6dd7b5a3</td>
+					<td class='timestamp'>1:43:36 AM</td>
+					<td class='step-details'>Request is sent successfully and response received.- com.ingenico.connect.gateway.sdk.java.domain.hostedcheckout.CreateHostedCheckoutResponse@31edaa7d</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>12:40:26 AM</td>
-					<td class='step-details'>Browser is lanched.<img data-featherlight='D:\Data Backup\restAPI_Assignment\restAPIAssignment/screenshots/1544485226143.png' width='10%' src='D:\Data Backup\restAPI_Assignment\restAPIAssignment/screenshots/1544485226143.png' data-src='D:\Data Backup\restAPI_Assignment\restAPIAssignment/screenshots/1544485226143.png'></td>
+					<td class='timestamp'>1:43:40 AM</td>
+					<td class='step-details'>Browser is lanched.<img data-featherlight='C:\Users\samraj\git\IngenicoAssignment\restAPIAssignment/screenshots/1544489020616.png' width='10%' src='C:\Users\samraj\git\IngenicoAssignment\restAPIAssignment/screenshots/1544489020616.png' data-src='C:\Users\samraj\git\IngenicoAssignment\restAPIAssignment/screenshots/1544489020616.png'></td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>12:40:29 AM</td>
-					<td class='step-details'>Payment Details are added.<img data-featherlight='D:\Data Backup\restAPI_Assignment\restAPIAssignment/screenshots/1544485228489.png' width='10%' src='D:\Data Backup\restAPI_Assignment\restAPIAssignment/screenshots/1544485228489.png' data-src='D:\Data Backup\restAPI_Assignment\restAPIAssignment/screenshots/1544485228489.png'></td>
+					<td class='timestamp'>1:43:43 AM</td>
+					<td class='step-details'>Payment Details are added.<img data-featherlight='C:\Users\samraj\git\IngenicoAssignment\restAPIAssignment/screenshots/1544489022663.png' width='10%' src='C:\Users\samraj\git\IngenicoAssignment\restAPIAssignment/screenshots/1544489022663.png' data-src='C:\Users\samraj\git\IngenicoAssignment\restAPIAssignment/screenshots/1544489022663.png'></td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>12:40:29 AM</td>
+					<td class='timestamp'>1:43:43 AM</td>
 					<td class='step-details'>Payment is successfull.- //DUMMY STATEMENT- NO CARD DETAILS.</td>
 				</tr>
 			</tbody>
@@ -259,19 +259,19 @@
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Start
-					<div class='panel-lead'>Dec 11, 2018 12:40:20 AM</div>
+					<div class='panel-lead'>Dec 11, 2018 01:43:35 AM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 			 		End
-			 		<div class='panel-lead'>Dec 11, 2018 12:40:29 AM</div>
+			 		<div class='panel-lead'>Dec 11, 2018 01:43:43 AM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Time Taken
-					<div class='panel-lead'>0h 0m 8s+776ms</div>
+					<div class='panel-lead'>0h 0m 8s+324ms</div>
 				</div>
 			</div>
 		</div>
