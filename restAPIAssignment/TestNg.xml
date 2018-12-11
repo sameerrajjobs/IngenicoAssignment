@@ -1,0 +1,7 @@
+<suite name="com.qa.test">
+	<test name="CHC_GetPartialURL">
+		<classes>
+			<class name="com.qa.test.CHC_GetPartialURL" />
+		</classes>
+	</test>
+</suite>
